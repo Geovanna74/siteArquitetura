@@ -1,0 +1,23 @@
+td {
+    border: 1px solid rgb(108, 5, 226);
+    padding: 2px;
+    text-align: center;
+    background-color: rgba(205, 180, 228, 0.719);
+    border-radius: 6px;
+}
+
+th {
+    padding: 2px;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 6px;
+    color: aliceblue;
+}
+table{
+    background-color: rgba(68, 68, 68, 0.459);
+    width: 100%;
+    
+}
+body{
+    background-color: aliceblue;
+}
